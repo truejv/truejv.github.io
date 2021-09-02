@@ -1,0 +1,18 @@
+p{
+
+}
+#underlined {
+text-decoration: underline;
+}
+#red {
+color: red;
+}
+#highlighted {
+background-color: orange;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
